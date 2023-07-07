@@ -2,10 +2,10 @@
 venv/
 .env
 .env.*
-__pycache__/
 *.pyc
 *.pyo
 *.log
 *.swp
 *.swo
 .DS_Store
+.__pycache__
